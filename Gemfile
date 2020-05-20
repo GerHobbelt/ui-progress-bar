@@ -1,6 +1,6 @@
 source "http://rubygems.org"
 
-gem "middleman", "~>2.0.14"
+gem "middleman", "~> 3.0.0"
 gem 'haml-coderay'
 gem 'therubyracer'
 gem 'rack-contrib'
